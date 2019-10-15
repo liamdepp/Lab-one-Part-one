@@ -11,6 +11,9 @@ body {
     list-style: none;
     padding-inline-start: 0px;
 }
+.navigation ul li {
+    padding-bottom: 10px;
+}
 .navigation ul li a {
     text-decoration: none;
     color: #69696a;
@@ -34,7 +37,7 @@ body {
     color: #69696a;
     padding: 0 15px;
     border-radius: 4px;
-    font-size: 0.7em;
+    font-size: 0.8em;
 }
 .body button {
     width: 100%;
